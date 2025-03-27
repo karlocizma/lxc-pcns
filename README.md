@@ -22,7 +22,7 @@ This repository provides an LXC template for running PowerChute Network Shutdown
    ```sh
    pct start <vmid>
    ```
-4. Access the PCNS web interface via `https://<container-ip>:6547` Configure PCNS to communicate with your APC UPS NMC.
+4. Access the PCNS web interface via `https://<container-ip>:6547`. Configure PCNS to communicate with your APC UPS NMC.
 
 ## Configuration
 - Ensure the correct network bridge is assigned.
